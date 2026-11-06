@@ -1,4 +1,4 @@
-ame = input("Enter student name: ")
+name = input("Enter student name: ")
 
 print()
 
